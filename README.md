@@ -5,7 +5,7 @@ Currently I'm busy reading below list of books
 - TCP-IP Illustrated
 - WebRTC Cookbook
 - Clean Architecture
-- High Performance Browser
+- High Performance Browser Networking
 
 <!---
 yrezehi/yrezehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
