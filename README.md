@@ -2,7 +2,7 @@
 
 Currently I'm busy reading below list of books
 
-- ~TCP-IP Illustrated~ Networking for Systems Administrators
+- [x] ~TCP-IP Illustrated~ Networking for Systems Administrators
 - WebRTC Cookbook
 - Clean Architecture
 - High Performance Browser Networking
