@@ -6,6 +6,8 @@ Currently I'm busy reading below list of books
 - WebRTC Cookbook
 - Clean Architecture
 - [x] ~High Performance Browser Networking~
+- Hacking APIs
+- Efficient Linux 
 
 <!---
 yrezehi/yrezehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
