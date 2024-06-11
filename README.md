@@ -1,6 +1,6 @@
 - I NEED A LIFE
 
-Currently I'm busy reading below list of books
+Currently I'm busy *planning* to read below list of books
 
 - [x] ~TCP-IP Illustrated~ Networking for Systems Administrators
 - WebRTC Cookbook
