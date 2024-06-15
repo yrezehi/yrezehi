@@ -9,6 +9,7 @@ Currently I'm busy *planning* to read below list of books
 - Hacking APIs
 - Efficient Linux
 - Refactoring UI
+- DC Fundamentals 
 
 <!---
 yrezehi/yrezehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
