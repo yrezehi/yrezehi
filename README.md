@@ -11,6 +11,8 @@ Currently I'm busy *planning* to read below list of books
 - Refactoring UI
 - DC Fundamentals 
 
+Also cooking few wondful closed source (for now) projects!
+
 <!---
 yrezehi/yrezehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
